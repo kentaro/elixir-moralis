@@ -1,4 +1,4 @@
-defmodule Moralis.MixProject do
+defmodule Moralis.Core.MixProject do
   use Mix.Project
 
   def project do
